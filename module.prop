@@ -1,8 +1,8 @@
-id=livedisplayfix
-name=LiveDisplay/Night Light fix for Moto G5/G5S
-version=1.3
-versionCode=3
+id=LiveDisplayFixUnity
+name=LiveDisplay Fix for Moto G5/G5S (Unity)
+version=1.0
+versionCode=1
+author=JarlPenguin
+description=LiveDisplay/Night Light fix for Android 9.0-based ROMs on the Moto G5/G5S.
 support=https://t.me/montanadevelopment
-author=JarlPenguin and giri45
-description=LiveDisplay/Night Light fix for Moto G5/G5S for Android 9.0-based ROMs
-minMagisk=17000
+minMagisk=1530
