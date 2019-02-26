@@ -9,6 +9,10 @@ For Magisk, 17+ is required.
 
 **Changelogs:**
 
+1.4
+
+- Undo changes for config.sh.
+
 1.3
 
 - Switched to Unity installer.
