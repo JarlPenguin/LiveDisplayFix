@@ -5,9 +5,15 @@ Any root solution with Init.d support is supported.
 
 For Magisk, 17+ is required.
 
-**Known issues:**
+---
 
-ViperOS 6.1 for Moto G5S (montana) - LiveDisplay not working
+**Tested & Compatible ROMs:**
+
+Pixel Experience 9.0 for Moto G5S (montana)
+
+**Tested & Incompatible ROMs:**
+
+ViperOS 6.1 for Moto G5S (montana) - LiveDisplay, Grayscale (Digital Wellbeing) not working
 
 ---
 
