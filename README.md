@@ -5,6 +5,10 @@ Any root solution with Init.d support is supported.
 
 For Magisk, 17+ is required.
 
+**Known issues:**
+
+ViperOS 6.1 for Moto G5S (montana) - LiveDisplay not working
+
 ---
 
 **Changelogs:**
