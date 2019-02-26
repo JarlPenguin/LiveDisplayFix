@@ -11,12 +11,12 @@
 
 print_modname() {
   ui_print " "
-  ui_print "    ********************************************"
-  ui_print "    LiveDisplay/Night Light fix for Moto G5/G5S"
-  ui_print "    ********************************************"
-  ui_print "    1.3"
-  ui_print "    by JarlPenguin"
-  ui_print "    ********************************************"
+  ui_print "    *******************************************"
+  ui_print "    *<name>*"
+  ui_print "    *******************************************"
+  ui_print "    *<version>*"
+  ui_print "    *<author>*"
+  ui_print "    *******************************************"
   ui_print " "
 }
 
@@ -32,7 +32,7 @@ MINAPI=28
 #MAXAPI=25
 #DYNAMICOREO=true
 #SYSOVERRIDE=true
-#DEBUG=true
+DEBUG=true
 
 # Things that ONLY run during an upgrade (occurs after unity_custom) - you probably won't need this
 # A use for this would be to back up app data before it's wiped if your module includes an app
