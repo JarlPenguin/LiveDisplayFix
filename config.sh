@@ -51,7 +51,7 @@ if ! device_check "XT1792" || device_check "XT1793" || device_check "XT1794" || 
 abort "Module only for Moto G5/G5S! Aborting!"
 fi
 
-if device_check "XT1792" || device_check "XT1793" || device_check "XT1794" || device_check "XT1795" || device_check "XT1797" || device_check "XT1799-2"; then
+if device_check "XT1792" || device_check "XT1793" || device_check "XT1794" || device_check "XT1795" || device_check "XT1797" || device_check "XT1799-2" || device_check "montana"; then
 ui_print "Moto G5S detected!"
 fi
 
