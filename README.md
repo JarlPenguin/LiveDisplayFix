@@ -11,13 +11,21 @@ For Magisk, 17+ is required.
 
 Pixel Experience 9.0 for Moto G5S (montana)
 
+Havos OS 2.2 for Moto G5S (montana)
+
 **Tested & Incompatible ROMs:**
 
-ViperOS 6.1 for Moto G5S (montana) - LiveDisplay, Grayscale (Digital Wellbeing) not working
+ViperOS 6.1 for Moto G5S (montana) - fix not working
+
+AOSPExtended 6.2 for Moto G5S (montana) - fix not working
 
 ---
 
 **Changelogs:**
+
+1.6 
+
+- Further enhance device check.
 
 1.5
 
