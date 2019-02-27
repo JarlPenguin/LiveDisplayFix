@@ -47,7 +47,8 @@ unity_custom() {
 }
 
 # Custom Functions for Install AND Uninstall - You can put them here
-
+if ! device_check "montana" || device_check "cedric"; then
+abort "Module only for Moto G5/G5S! Aborting!"
 ##########################################################################################
 # Replace list
 ##########################################################################################
