@@ -19,6 +19,10 @@ ViperOS 6.1 for Moto G5S (montana) - LiveDisplay, Grayscale (Digital Wellbeing) 
 
 **Changelogs:**
 
+1.5
+
+- Add device check to insure compatible installation.
+
 1.4
 
 - Undo changes for config.sh.
